@@ -1,2 +1,1 @@
-This is my personal Zsh shell profil file
-have fun 
+This is my personal Zsh shell profile file have fun 
