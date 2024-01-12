@@ -92,3 +92,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 alias update="sudo dnf update --refresh && sudo dnf upgrade"
 alias ohmyzsh="mate ~/.oh-my-zsh"
+neofetch
